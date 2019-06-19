@@ -180,5 +180,3 @@ function sumar(cantidad) {
     return saldoCuenta + cantidad;
 }
 
-//larara
-//larara
